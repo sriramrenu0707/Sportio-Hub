@@ -1,0 +1,2 @@
+streamlit==1.xx.x
+streamlit-option-menu==0.x.x
