@@ -25,7 +25,7 @@ st.markdown("""
         .main-header {
             font-size: 36px;
             font-weight: bold;
-            color: white;
+            color: black;
             padding: 20px 0;
             text-align: center;
         }
